@@ -1,0 +1,52 @@
+BalanceInit_Batch1A_Validate_20220125_1633
+
+BalanceInit_Batch1A_Transfer_20220125_1842
+BalanceInit_Batch_114848_Validate_20220126_0940
+
+BalanceInit_Batch_114848_Validate_20220126_1347
+
+BalanceAdj_Batch_HSA-Wkly_20220126_1347
+BalAdj_HSA_Weekly
+
+
+load data from file
+
+Merges juntos para HSA ER
+
+submit flow > adjust multiple bal
+
+RL - outbound - I.014 es de US LDG
+
+PA > PRA > CR REC
+
+scope - detail
+person name = alguin 4772 26585
+
+110110 w
+113970 bw
+2091
+114199
+112194
+
+Michael Thomas|8773
+
+LJ_Test_20220128_1105
+10/1/21
+
+1st - details - payroll calc   -   payroll n paymenr
+
+segun su mejor conocimiento, q y r, 
+
+
+y donde checar
+
+AZ_PY_Test_Disqualified_Disposition_20220202_1202
+
+UCMFA09061451
+
+checar fechas de pay time periods
+
+payroll_id
+
+
+anadir PRVALID
